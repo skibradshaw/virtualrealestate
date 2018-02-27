@@ -17,8 +17,8 @@
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Core Design CSS -->
-    <link href="css/core.css" rel="stylesheet">
+    <!-- Frontend Design CSS -->
+    <link href="css/front.css" rel="stylesheet">
     <!-- App Specific CSS -->
     <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
@@ -89,7 +89,7 @@
           <!-- Navbar right -->
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a href="">Login</a>
+              <a href="/photographers/dashboard">Login</a>
             </li>
             <li>
               <a href="" class="btn btn-inverse btn-bordered navbar-btn">Signup</a>
@@ -540,6 +540,6 @@
     <!-- js placed at the end of the document so the pages load faster -->
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript" src="js/frontapp.js"></script>
   </body>
 </html>

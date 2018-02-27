@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+// Photographers Login
+Route::prefix('photographers')->group(function(){
+	Route::get('dashboard','Photographers\DashboardController@index');
+});

@@ -1,8 +1,22 @@
 {
     "/css/app.css": "/css/app.css?id=0291136a68c2675e8122",
-    "/js/app.js": "/js/app.js?id=4f70a51dbb7af3e4f833",
+    "/js/frontapp.js": "/js/frontapp.js?id=4f70a51dbb7af3e4f833",
     "/js/bootstrap.min.js": "/js/bootstrap.min.js?id=5869c96cc8f19086aee6",
+    "/js/backplugins.js": "/js/backplugins.js?id=92b19c377369a2b34dfa",
+    "/js/jquery.core.js": "/js/jquery.core.js?id=7f935b0b2bb2fe45540a",
+    "/js/jquery.app.js": "/js/jquery.app.js?id=9d910de1fa826768a3a6",
     "/js/jquery.js": "/js/jquery.js?id=6a07da9fae934baf3f74",
+    "/js/modernizr.min.js": "/js/modernizr.min.js?id=65f1d21d5fcc9d21da75",
+    "/js/detect.js": "/js/detect.js?id=0a82420a8ab5cc1ee448",
+    "/js/fastclick.js": "/js/fastclick.js?id=6e9d3b0da74f2a4a7042",
+    "/js/jquery.slimscroll.js": "/js/jquery.slimscroll.js?id=ff8645b10b5cb015f9a4",
+    "/js/jquery.blockUI.js": "/js/jquery.blockUI.js?id=5c98c0cbfacee6dab078",
+    "/js/waves.js": "/js/waves.js?id=daec46621ce24bd48372",
+    "/js/wow.min.js": "/js/wow.min.js?id=3fcf8f685dc926ccc286",
+    "/js/jquery.nicescroll.js": "/js/jquery.nicescroll.js?id=c9844213bc1d3c39dc67",
+    "/js/jquery.scrollTo.min.js": "/js/jquery.scrollTo.min.js?id=bd938d034a5305d6408d",
     "/css/bootstrap.min.css": "/css/bootstrap.min.css?id=ec3bb52a00e176a7181d",
-    "/css/core.css": "/css/core.css?id=3fdb3a48fbef8228d7d0"
+    "/css/plugins.css": "/css/plugins.css?id=e34ce0be141127379aae",
+    "/css/front.css": "/css/front.css?id=3fdb3a48fbef8228d7d0",
+    "/css/back.css": "/css/back.css?id=508aa79aef942f0a780e"
 }
